@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First CLI Project"
-date:       2020-08-24 00:59:24 +0000
+date:       2020-08-23 20:59:25 -0400
 permalink:  my_first_cli_project
 ---
 
@@ -28,7 +28,7 @@ My program takes a real long freakin' time to load. It's what I feel is the bigg
 
 ## The Final Commit
 
-Overall, I actually had a really great time with this project. It was crazy satisfying to accomplish something on this level that I never would have dreamed of doing three weeks ago. I loved seeing each iteration improve or collapse my previous work. The feeling of building this thing from scratch and it actually working was really cool. It was awesome getting to talk through things with cohort mates and I joined a couple of discord servers for Rubyists and Riot Games Third-Party Developers and got some great advice from devs in those channels.
+Overall, I actually had a really great time with this project. It was crazy satisfying to accomplish something on this level that I never would have dreamed of doing three weeks ago. I loved seeing each iteration improve or collapse my previous work. The feeling of building this thing from scratch and it actually working was really cool. It was awesome getting to talk through things with cohortians and I joined a couple of discord servers for Rubyists and Riot Games Third-Party Developers and got some great advice from devs in those channels.
 
 Who knew "work" could be this fun. It's a fantastic marriage of creativity and puzzle-solving, and it was a great learning experience and an even better confidence builder. 
 
