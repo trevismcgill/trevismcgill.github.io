@@ -30,7 +30,7 @@ Wait --too fast?
 
 Indeed! 
 
-The issue I ran into multiple times were when my functions were attempting to use some data, but when they went looking for it, that data was nowhere to be seen. I had functions that were fetching to my backend database for data and then using that to instantiate JS objects from that data. My functions following my fetch call were then using those newly created JS objects to add HTML elements to the DOM. That's quite hard to do when the JS objects you're looking for haven't don't exist yet.
+The issue I ran into multiple times were when my functions were attempting to use some data, but when they went looking for it, that data was nowhere to be seen. I had functions that were fetching to my backend database for data and then using that to instantiate JS objects from that data. My functions following my fetch call were then using those newly created JS objects to add HTML elements to the DOM. That's quite hard to do when the JS objects you're looking for don't exist yet.
 
 I'll show you a little more of what I'm talking about. Take a look.
 
