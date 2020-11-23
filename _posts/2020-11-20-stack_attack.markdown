@@ -125,8 +125,8 @@ Promise Initialized
 
 However, as we can see, `newArray` is empty at both calls even though the second call follows our variable of `newPromise`. This is because JS 
 
--looks at newArray, it's empty
--reads the `newPromise` variable which executes, but since we are creating a new promise, it escapes and moves to
+-looks at newArray, it's empty  
+-reads the `newPromise` variable which executes, but since we are creating a new promise, it escapes and moves to  
 -our second console.log, which is now called before `newPromise` resolves the promise we created.
 
 If we were to check `newArray` 5 seconds later though, we'd see that data populated the same as before.
