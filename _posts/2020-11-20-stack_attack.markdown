@@ -123,7 +123,7 @@ Promise Initialized
 []
 ```
 
-However, as we can see, `newArray` is empty at both calls even though the second call follows our variable of `newArray`. This is because JS 
+However, as we can see, `newArray` is empty at both calls even though the second call follows our variable of `newPromise`. This is because JS 
 
 -looks at newArray, it's empty
 -reads the `newPromise` variable which executes, but since we are creating a new promise, it escapes and moves to
