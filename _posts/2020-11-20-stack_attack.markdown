@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Stack Attack"
-date:       2020-11-21 03:59:59 +0000
+date:       2020-11-20 23:00:00 -0500
 permalink:  stack_attack
 ---
 
@@ -14,7 +14,7 @@ Oh... I almost forgot about the whole JS functional vs. object-oriented programm
 
 I guess at this point it makes sense for me to quit whining and TRY to discuss something useful.
 
-I suppose I'm going to try go over promises. I don't really even want to try to explain them, but asynchronous JS is probably what I've struggled and wrestled with the most during this project so here goes nothing.
+I suppose I'm going to attempt to go over promises. I don't really even want to try to explain them, but asynchronous JS is probably what I've struggled and wrestled with the most during this project so here goes nothing.
 
 Let's begin by tackling the difference between asynchronous and synchronous. 
 
