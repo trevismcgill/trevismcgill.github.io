@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "App Planning and Design"
-date:       2021-03-14 20:59:13 +0000
+title:      "App Planning and Design (Part 1)"
+date:       2021-03-14 16:59:14 -0400
 permalink:  app_planning_and_design
 ---
 
