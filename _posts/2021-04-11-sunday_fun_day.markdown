@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sunday Fun Day"
-date:       2021-04-12 02:29:06 +0000
+date:       2021-04-11 22:29:06 -0400
 permalink:  sunday_fun_day
 ---
 
@@ -11,6 +11,8 @@ Hey readers!
 I have a special annoucement! 
 
 **I got married yesterday!!!**
+
+![](https://i.imgur.com/DkhPqlCl.jpg)
 
 So it probably goes without saying, but I've been pretty busy this week. On top of the chaos that was this week, my new bride and I are actually heading to the Bahamas tomorrow for two weeks for our honeymoon.
 
